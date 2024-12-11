@@ -38,7 +38,7 @@ Pandas is a powerful Python library for data manipulation and analysis. It provi
 
 https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
 
-# Matplotlit
+# Matplotlib
 
 Matplotlib is a versatile Python library for creating static, animated, and interactive visualizations. It enables the generation of diverse plots and charts, facilitating data exploration and presentation in various applications.
 
