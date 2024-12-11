@@ -12,3 +12,11 @@ Please go through the below videos. These are tutorials and playlists to get sta
 https://youtu.be/kqtD5dpn9C8?feature=shared
 
 https://youtu.be/rfscVS0vtbw?feature=shared
+
+Optional videos are available below, in case they are needed. Feel free to explore these additional resources for further insights and a deeper understanding of the topics covered.
+
+https://youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm&feature=shared   
+
+Try to complete the above in 2-3 days to get a good grasp of this language.
+
+
