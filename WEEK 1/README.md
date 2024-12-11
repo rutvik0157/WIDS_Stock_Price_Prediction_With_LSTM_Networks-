@@ -5,6 +5,8 @@ We'll begin by mastering Python. Jupyter Notebooks and Google Colab provide an i
 
 https://youtu.be/ClTWPoDHY_s?feature=shared
 
+https://youtu.be/vuFTrylVwno?feature=shared
+
 Please go through the below videos. These are tutorials and playlists to get started.
 
 https://youtu.be/kqtD5dpn9C8?feature=shared
