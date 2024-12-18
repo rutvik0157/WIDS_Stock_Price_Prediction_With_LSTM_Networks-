@@ -1,2 +1,2 @@
-#WEEK 2
+WEEK 2
 
