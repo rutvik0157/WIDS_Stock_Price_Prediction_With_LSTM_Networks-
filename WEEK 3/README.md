@@ -7,3 +7,14 @@ Complete Playlist on RNNs: https://www.youtube.com/playlist?list=PLuhqtP7jdD8ARB
 Brief Video on RNNs: https://youtu.be/AsNTP8Kwu80?feature=shared
 
 Blog on RNNs: https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/
+
+# Long Short-Term Memory Networks (LSTMs): Addressing the Limitations of RNNs
+To overcome the challenge of Vanishing Gradients, Long-Short-Term Memory networks (LSTMs) were introduced. By incorporating a robust memory mechanism and advanced gating systems, LSTMs allow for better retention of long-term dependencies while maintaining focus on the immediate context.
+
+Brief Videos on LSTM:
+
+https://youtu.be/LfnrRPFhkuY?feature=shared
+
+https://youtu.be/YCzL96nL7j0?feature=shared
+
+Blog on LSTM: https://colah.github.io/posts/2015-08-Understanding-LSTMs/
