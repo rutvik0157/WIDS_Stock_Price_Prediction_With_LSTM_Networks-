@@ -18,3 +18,5 @@ https://youtu.be/LfnrRPFhkuY?feature=shared
 https://youtu.be/YCzL96nL7j0?feature=shared
 
 Blog on LSTM: https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+Please go through the above resources carefully.
