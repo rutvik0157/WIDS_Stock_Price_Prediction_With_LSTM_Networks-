@@ -1,0 +1,2 @@
+# Recurrent Neural Networks (RNNs) : The pioneers of Sequential Understanding
+Recurrent Neural Networks (RNNs) have transformed how we handle sequential data, such as time series, natural language, and audio. By leveraging information from earlier steps in a sequence, RNNs excel in tasks where context is crucial. Their foundational design has made them indispensable for sequence modeling in numerous applications.
