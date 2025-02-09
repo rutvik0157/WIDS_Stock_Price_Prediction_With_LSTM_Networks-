@@ -1,2 +1,2 @@
 ## Final Assignment
-Details regarding task is given in the Assignment
+Details regarding the task are given in the Assignment
